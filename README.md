@@ -10,3 +10,6 @@ The task is to:
 5. Create 2 commits in the new branch.
 6. Go back to the main branch.
 7. Create 2 commits in the main branch.
+
+<< OOO OOO >>
+    _____
