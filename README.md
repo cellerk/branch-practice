@@ -18,3 +18,5 @@ The task is to:
 
 Here are some additional changes to this file.
 I will attempt to merge and see if a conflict arises.
+
+Here is some additional functionality.
